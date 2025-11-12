@@ -71,7 +71,26 @@ ExcelR-Artificial-Intelligence-Assignments/
 **Libraries & Frameworks:**  
 - TensorFlow, Keras, PyTorch, Scikit-learn  
 - NumPy, Pandas, Matplotlib, Seaborn  
-- OpenCV, NLTK, SpaCy  
+- OpenCV, NLTK, SpaCy
+
+
+---
+
+## 📜 License
+This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
+
+---
+
+## 👩‍💻 Author
+**Anamika Shelar**  
+🔗 [LinkedIn](https://www.linkedin.com/in/anamika-shelar/)  
+📁 [GitHub](https://github.com/yourusername)
+
+---
+
+### ⭐ Feel free to star this repository if you find it helpful!
+
+
 
 **Tools:**  
 - Jupyter Notebook  
